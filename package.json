@@ -1,0 +1,10 @@
+{
+  "name": "nuxt-static-shop",
+  "version": "1.0.0",
+  "dependencies": {
+    "nuxt": "^2.15.2"
+  },
+  "scripts": {
+    "run:dev": "nuxt"
+  }
+}
